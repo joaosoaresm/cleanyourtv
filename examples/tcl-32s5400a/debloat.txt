@@ -74,3 +74,8 @@ com.yupptv.scope.tvapp
 # au.com.stan.and
 # tv.wuaki.apptv
 # com.tcl.keyhelp
+
+
+# Pedido pelo usuário: T-Solo e Alexa
+com.tcl.t_solo                         # T-Solo app
+com.tcl.smartalexa                     # Alexa; remove o botão de voz do controle
